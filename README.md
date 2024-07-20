@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @Ssujana2905
-- 👀 I’m interested in designing tools,problem solving
-- 🌱 I’m currently learning cloud computing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
-
-<!---
-Ssujana2905/Ssujana2905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+In today's fast-paced world, managing vehicle ownership and rental processes efficiently is essential. 
+However, existing methods often lack the necessary organization and accessibility, leading to delays in service, confusion over ownership details, and inefficiencies in rental processes. 
+This problem requires a comprehensive solution that simplifies the process of finding cars for rental and to make service bookings and also simplifies the process of managing booking details in the admin side.
+The solution to this problem is the Car Maintenance and Rental System.
